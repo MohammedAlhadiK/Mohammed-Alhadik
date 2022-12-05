@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Alhadik</h1>
 <h3 align="center">Software Developer</h3>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="mohammed-alhadik" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/mohammed-alhadik?trk=profile-badge">Mohammed AlHadik</a></div>
-              
+     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedalhadik&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedalhadik" /> </p>
 
 - 🌱 I’m currently learning **Angular**
